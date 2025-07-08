@@ -163,3 +163,8 @@ In rare scenarios, certain plugins may still partially run due to how their code
 ## Conclusion
 
 This plugin effectively "disables" plugins by dynamically modifying WordPress’s active plugins list, but it relies on WordPress’s default mechanisms. In almost all scenarios, this method is sufficient for troubleshooting or temporarily disabling plugins without the side effects of full deactivation. However, for plugins with unconventional loading methods, some functionality might persist.
+
+## License
+
+Proprietary / All Rights Reserved (No license declared)
+- If a project has no license, you cannot legally reuse, copy, modify, or distribute the code. All rights are reserved by default under copyright law.
